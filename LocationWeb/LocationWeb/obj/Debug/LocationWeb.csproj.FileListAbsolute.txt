@@ -1,0 +1,9 @@
+C:\Users\beatr\source\repos\LocationWeb\LocationWeb\bin\LocationWeb.dll.config
+C:\Users\beatr\source\repos\LocationWeb\LocationWeb\bin\LocationWeb.dll
+C:\Users\beatr\source\repos\LocationWeb\LocationWeb\bin\LocationWeb.pdb
+C:\Users\beatr\source\repos\LocationWeb\LocationWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\beatr\source\repos\LocationWeb\LocationWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\beatr\source\repos\LocationWeb\LocationWeb\obj\Debug\LocationWeb.csprojResolveAssemblyReference.cache
+C:\Users\beatr\source\repos\LocationWeb\LocationWeb\obj\Debug\LocationWeb.csproj.CoreCompileInputs.cache
+C:\Users\beatr\source\repos\LocationWeb\LocationWeb\obj\Debug\LocationWeb.dll
+C:\Users\beatr\source\repos\LocationWeb\LocationWeb\obj\Debug\LocationWeb.pdb
