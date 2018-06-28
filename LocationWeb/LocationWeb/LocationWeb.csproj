@@ -75,14 +75,50 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BebidaStyle.css" />
+    <Content Include="CadastroBebida.aspx" />
+    <Content Include="CadastroDescartavel.aspx" />
+    <Content Include="CadastroEvento.aspx" />
+    <Content Include="CadastroMesaCadeira.aspx" />
+    <Content Include="DescartavelStyle.css" />
+    <Content Include="EventoStyle.css" />
     <Content Include="Global.asax" />
     <Content Include="CadastroCliente.aspx" />
     <Content Include="Home.aspx" />
-    <Content Include="StyleCadastroCliente.css" />
-    <Content Include="StyleHome.css" />
+    <Content Include="ClienteStyle.css" />
+    <Content Include="HomeStyle.css" />
+    <Content Include="MesaCadeiraStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CadastroBebida.aspx.cs">
+      <DependentUpon>CadastroBebida.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CadastroBebida.aspx.designer.cs">
+      <DependentUpon>CadastroBebida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroDescartavel.aspx.cs">
+      <DependentUpon>CadastroDescartavel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CadastroDescartavel.aspx.designer.cs">
+      <DependentUpon>CadastroDescartavel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroEvento.aspx.cs">
+      <DependentUpon>CadastroEvento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CadastroEvento.aspx.designer.cs">
+      <DependentUpon>CadastroEvento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroMesaCadeira.aspx.cs">
+      <DependentUpon>CadastroMesaCadeira.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CadastroMesaCadeira.aspx.designer.cs">
+      <DependentUpon>CadastroMesaCadeira.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

@@ -1,4 +1,5 @@
 ﻿body {
+    font-family: Arial;
 }
 
 #menu ul {
@@ -6,6 +7,7 @@
     margin: 0px;
     background-color: #EDEDED;
     list-style: none;
+    font-family: Arial;
 }
 
 /*Deixa o menu horizontal*/
@@ -18,7 +20,7 @@
     display: inline-block;
     /* visual do link */
     background-color: #EDEDED;
-    color: #333;
+    color: black;
     text-decoration: none;
     border-bottom: 3px solid #EDEDED;
 }
@@ -28,3 +30,11 @@
     color: #6D6D6D;
     border-bottom: 3px solid pink;
 }
+
+td {
+    /*Alinhamento do texto em relação a borda direita do text box*/
+    text-align: right;
+    /*Distância entre células*/
+    padding: 10px;
+}
+
